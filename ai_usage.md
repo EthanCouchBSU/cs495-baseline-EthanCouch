@@ -1,0 +1,1 @@
+I used AI to help create the unit tests, as had not used python in a while, and needed to be able to unrandomize the random factor to be able to properly test inputs. It was used for the patching feature of the tests.

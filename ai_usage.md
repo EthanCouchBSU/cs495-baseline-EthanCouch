@@ -1,1 +1,9 @@
-I used AI to help create the unit tests, as had not used python in a while, and needed to be able to unrandomize the random factor to be able to properly test inputs. It was used for the patching feature of the tests.
+I used ChatGPT (or whichever you used) to:
+- create the random patching for the unit tests.
+  
+
+What I did myself:
+- Method createion and unit test creation
+
+Verification:
+- 
